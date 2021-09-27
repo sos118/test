@@ -31,7 +31,7 @@
       </td>
       <td>
         GitHub動作画面<br>
-        <img alt="GitHub動作画面" src="GitHub.png" width="256px">
+        <img alt="GitHub動作画面" src="github.png" width="256px">
       </td>
     </tr>
   </tbody>
